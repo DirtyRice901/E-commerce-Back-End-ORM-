@@ -7,7 +7,6 @@ This challenge is to build the back end for an e-commerce site. I’ll take a wo
 
 ## Table of Contents
 * [Installation](#installation)
-* [Functionalities](#functionalities)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -18,35 +17,28 @@ This challenge is to build the back end for an e-commerce site. I’ll take a wo
 ### The following dependencies required to run the application:
 * [express.js](https://www.npmjs.com/package/express)
 
-* [Inquirer.js](https://www.npmjs.com/package/inquirer/v/8.2.4)
+* [Insomnia REST](https://insomnia.rest/products/insomnia)
 
-* [UUID.v4](https://www.npmjs.com/package/uuid)
+* [Sequelize](https://www.npmjs.com/package/sequelize)
 
 * [NodeJS](https://nodejs.org/en/download)
 
 * [Nodemon](https://www.npmjs.com/package/nodemon)
 
-
-
-## Functionalities
-### A user can do the following things with this Note Taking App:
-* Display Notes
-
-* Add New Notes
-
-* Update Notes
-
+* [dotenv](https://www.npmjs.com/package/dotenv)
 
 
 ## Usage
-```bash
-node server.js
-```
-![Screenshot](public/assets/image/Note-Taker.png)
+### Screenshot
 
-[URL Link](https://note-taker-901-a55e94b7827c.herokuapp.com/notes)
+![Alt text](Images/Products.png)
 
-[Demonstration Video](https://drive.google.com/file/d/1CJW7ZeDCefmGsU6Jr-XKPUq3rY5HMOyC/view)
+![Alt text](<Images/Screenshot (27).png>)
+
+![Alt text](Images/tags.png)
+
+### Walkthrough Video
+[Demonstration Video](https://drive.google.com/file/d/14RSUxwZw1jTcuaC1wCoAc5hs6tZziCb5/view)
 ## License
 ![MIT](https://img.shields.io/badge/license-MIT-yellow)
 
@@ -59,10 +51,13 @@ UCF Bootcamp Student Support
 node server.js
 ```
 ```bash
-localhost:5500
+localhost:3001
 ```
 ```bash
-heroku open
+mysql -u root -p ''
+```
+```bash
+npm run seed
 ```
 
 ## Questions
