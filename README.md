@@ -38,7 +38,7 @@ This challenge is to build the back end for an e-commerce site. I’ll take a wo
 ![Alt text](Images/tags.png)
 
 ### Walkthrough Video
-[Demonstration Video](https://drive.google.com/file/d/14RSUxwZw1jTcuaC1wCoAc5hs6tZziCb5/view)
+[Demonstration Video](https://drive.google.com/file/d/1FUP8le3zC8iXShvWUefCn6ML-aEcLdFL/view)
 ## License
 ![MIT](https://img.shields.io/badge/license-MIT-yellow)
 
